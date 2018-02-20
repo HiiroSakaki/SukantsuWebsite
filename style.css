@@ -24,12 +24,13 @@ h3{
 }
 
 span{
+	display:inline-block;
 	text-indent: 100px;
 }
 
 #top_title{
 	background-color: #c7f075;
 	text-align: center;
-	box-shadow: 1px 1px #eeeeee;
+	box-shadow: 3px 3px #eeeeee;
 }
 
