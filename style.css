@@ -16,6 +16,7 @@ a:link {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
+    box-shadow: 1px 1px #eeeeee;
 }
 
 h3{
@@ -23,7 +24,6 @@ h3{
 }
 
 span{
-	text-align: justify;
 	text-indent: 100px;
 }
 
