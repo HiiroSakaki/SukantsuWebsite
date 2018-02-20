@@ -8,7 +8,9 @@ body{
 	background-color: #4a1c33;
 }
 
-
+#dl_Link{
+	display-style: button;
+}
 
 p{
 	text-align: justify;
