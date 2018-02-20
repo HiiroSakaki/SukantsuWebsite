@@ -12,8 +12,13 @@ a{
 	appearance: button;
 }
 
+h3{
+	text-indent: 50px;
+}
+
 p{
 	text-align: justify;
+	text-indent: 50px;
 }
 
 #top_title{
