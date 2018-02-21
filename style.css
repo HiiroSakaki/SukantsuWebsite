@@ -19,6 +19,10 @@ a:link {
     box-shadow: 1px 1px #4d0026;
 }
 
+p{
+	text-shadow: 1px 1px #4d0026;
+}
+
 h3{
 	text-indent: 50px;
 }
@@ -26,6 +30,7 @@ h3{
 span{
 	display:inline-block;
 	text-indent: 100px;
+	text-shadow: 1px 1px #4d0026;
 }
 
 #top_title{
