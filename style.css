@@ -4,12 +4,12 @@
 body{
 	font-size: 1rem;
 	font-family: 'Ubuntu', sans-serif;
-	color : #000000;
+	color : #ff66b3;
 	background-image: url("https://puu.sh/zsqIq/7f02faffa7.jpg");
 }
 
 a:link {
-    background-color: #ccff66;
+    background-color: #ff0080;
     color: #000000;
     border-radius: 2px;
     padding: 7px 12px;
@@ -29,7 +29,7 @@ span{
 }
 
 #top_title{
-	background-color: #c7f075;
+	background-color: #cc0066;
 	text-align: center;
 	box-shadow: 3px 3px #eeeeee;
 }
