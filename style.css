@@ -16,31 +16,31 @@ a:link {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-    box-shadow: 1px 1px #4d0026;
+    box-shadow: 1px 1px #004080;
 }
 
 p{
-	text-shadow: 1px 1px #4d0026;
+	text-shadow: 1px 1px #004080;
 }
 
 h2{
-	text-shadow: 2px 2px #4d0026;
+	text-shadow: 2px 2px #004080;
 }
 
 h3{
 	text-indent: 50px;
-	text-shadow: 1px 1px #4d0026;
+	text-shadow: 1px 1px #004080;
 }
 
 span{
 	display:inline-block;
 	text-indent: 100px;
-	text-shadow: 1px 1px #4d0026;
+	text-shadow: 1px 1px #004080;
 }
 
 #top_title{
-	background-color: #cc0066;
+	background-color: #1a8cff;
 	text-align: center;
-	box-shadow: 3px 3px #4d0026;
+	box-shadow: 3px 3px #004080;
 }
 
