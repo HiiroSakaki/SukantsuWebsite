@@ -23,8 +23,13 @@ p{
 	text-shadow: 1px 1px #4d0026;
 }
 
+h2{
+	text-shadow: 2px 2px #4d0026;
+}
+
 h3{
 	text-indent: 50px;
+	text-shadow: 1px 1px #4d0026;
 }
 
 span{
