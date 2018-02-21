@@ -16,7 +16,7 @@ a:link {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-    box-shadow: 1px 1px #eeeeee;
+    box-shadow: 1px 1px #4d0026;
 }
 
 h3{
@@ -31,6 +31,6 @@ span{
 #top_title{
 	background-color: #cc0066;
 	text-align: center;
-	box-shadow: 3px 3px #eeeeee;
+	box-shadow: 3px 3px #4d0026;
 }
 
