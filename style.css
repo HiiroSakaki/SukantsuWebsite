@@ -45,7 +45,10 @@ span{
 }
 
 #links{
+	position: relative;
 	display:inline;
-	margin-bottom: 250px;
-	margin-left : 500px;
+	top: 50%;
+	left: 50%;
+	margin: -100px -100px;
+
 }
