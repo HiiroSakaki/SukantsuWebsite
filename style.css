@@ -44,3 +44,6 @@ span{
 	box-shadow: 3px 3px #004080;
 }
 
+#links{
+	display:inline-block;
+}
