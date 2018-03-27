@@ -45,10 +45,10 @@ span{
 }
 
 #links{
-	position: relative;
+	position: absolute;
 	display:inline;
 	top: 50%;
-	left: 50%;
+	left: 40%;
 	margin: -100px -100px;
 
 }
