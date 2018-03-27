@@ -9,7 +9,7 @@ body{
 }
 
 a:link {
-    background-color: #1a8cff;
+    background-color: #ff3333;
     color: #000000;
     border-radius: 2px;
     padding: 7px 12px;
@@ -39,7 +39,7 @@ span{
 }
 
 #top_title{
-	background-color: #1a8cff;
+	background-color: #ff3333;
 	text-align: center;
 	box-shadow: 3px 3px #004080;
 }
