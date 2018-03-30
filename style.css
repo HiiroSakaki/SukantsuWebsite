@@ -58,5 +58,5 @@ span{
 }
 
 #row{
-	display: inline;
+	display: inline-block;
 }
