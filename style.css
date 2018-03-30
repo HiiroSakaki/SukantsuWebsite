@@ -63,3 +63,17 @@ span{
 	flex-direction: row;
 	flex-wrap: wrap;
 }
+
+#news_content{
+	display: flex;
+	justify-content:flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+#news_title{
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
