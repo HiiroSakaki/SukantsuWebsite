@@ -59,7 +59,7 @@ span{
 
 #row{
 	display: flex;
-	justify-content: flex-start;
+	justify-content: space-around;
 	flex-direction: row;
 	flex-wrap: wrap;
 }
