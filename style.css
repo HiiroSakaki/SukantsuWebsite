@@ -57,18 +57,9 @@ span{
 	text-align: center;
 }
 
-#row_1{
-	display: inline-block;
-}
-
-#row_2{
-	display: inline-block;
-}
-
-#row_3{
-	display: inline-block;
-}
-
-#row_4{
-	display: inline-block;
+#row{
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
