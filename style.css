@@ -57,6 +57,18 @@ span{
 	text-align: center;
 }
 
-#row{
+#row_1{
+	display: inline-block;
+}
+
+#row_2{
+	display: inline-block;
+}
+
+#row_3{
+	display: inline-block;
+}
+
+#row_4{
 	display: inline-block;
 }
