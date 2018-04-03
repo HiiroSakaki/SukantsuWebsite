@@ -6,6 +6,9 @@ body{
 	font-family: 'Ubuntu', sans-serif;
 	color : #eeeeee;
 	background-image: url("https://i.imgur.com/hJd8oDP.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 a:link {
@@ -60,31 +63,17 @@ span{
 #column {
 	display: flex;
 	justify-content: space-around;
-	flex-direction: row;
-	flex-wrap: wrap;
-	align-items: flex-start;
-}
-
-#column_1 {
-	display: flex;
-	justify-content: flex-start;
 	flex-direction: column;
 	flex-wrap: wrap;
 	align-items: flex-start;
 }
 
-#column_2 {
-	display: flex;
-	justify-content: flex-start;
-	flex-direction: column;
-	flex-wrap: wrap;
-	align-items: flex-start;
 }
 
 #news_title{
 	display: flex;
 	justify-content: flex-start;
-	flex-direction: column;
+	flex-direction: row;
 	flex-wrap: wrap;
 	align-items: flex-start;
 }
@@ -92,7 +81,7 @@ span{
 #news_title-2{
 	display: flex;
 	justify-content: flex-start;
-	flex-direction: column;
+	flex-direction: row;
 	flex-wrap: wrap;
 	margin-right: 60px;
 	align-items: flex-start;
