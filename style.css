@@ -76,4 +76,5 @@ span{
 	justify-content: flex-start;
 	flex-direction: column;
 	flex-wrap: wrap;
+	margin-right: 60px;
 }
