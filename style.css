@@ -59,6 +59,22 @@ span{
 
 #column {
 	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+#column_1 {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+#column_2 {
+	display: flex;
 	justify-content: flex-start;
 	flex-direction: row;
 	flex-wrap: wrap;
